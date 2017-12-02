@@ -8,3 +8,12 @@
 *.ide-wal
 *.cache
 *.cs
+*.pdb
+*.exe
+*.txt
+*.CopyComplete
+*.config
+*.dll
+*.dylib
+*.0
+*.1
